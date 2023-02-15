@@ -1,4 +1,4 @@
-# Olá, sou o Matheus 👋 ( ͡ᵔ ͜ʖ ͡ᵔ) - @matheusdelabarra
+# Olá, sou o Matheus 👋 ( ͡ᵔ ͜ʖ ͡ᵔ) 
 
 <a href="https://www.linkedin.com/in/matheusdelabarra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.instagram.com/matheusdelabarra/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a><img src="https://img.shields.io/github/followers/MatheusDeLaBarra?logo=github&style=for-the-badge"/>[![Gmail Badge](https://img.shields.io/badge/send%20me%20a%20email-silver?style=for-the-badge&logo=gmail&link=mailto:matheus.g.delabarra@gmail.com)](mailto:matheus.g.delabarra@gmail.com)
 
