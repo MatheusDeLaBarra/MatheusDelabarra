@@ -17,7 +17,7 @@ Esforce-se e admire o processo!
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://media.licdn.com/dms/image/D4D03AQEycVozb1uA2Q/profile-displayphoto-shrink_200_200/0/1675097958420?e=1681948800&v=beta&t=7PM-jJ0t0OEETaKgk01RQ-n1rn3SVbBgXAb_6apbG3g" />
+      <img width="400" src="[https://media.licdn.com/dms/image/D4D03AQEycVozb1uA2Q/profile-displayphoto-shrink_200_200/0/1675097958420?e=1681948800&v=beta&t=7PM-jJ0t0OEETaKgk01RQ-n1rn3SVbBgXAb_6apbG3g](https://media.licdn.com/dms/image/D4D03AQEycVozb1uA2Q/profile-displayphoto-shrink_800_800/0/1675097958420?e=1694044800&v=beta&t=BNiJwL82kc036iL4fMB0t5ItBSo3ujJIF91K829N4Qc)" />
     </td>
     <td style="border: 0";>
       <p>
